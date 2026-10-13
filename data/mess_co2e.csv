@@ -1,0 +1,4 @@
+building_id,name,complex,cylinders_per_yr,annual_co2e_kg_manufacturing,annual_co2e_tonnes_manufacturing,annual_co2e_kg_combustion,annual_co2e_tonnes_combustion
+BLD-019,Himalaya Mess,Himalaya,12013,533136.94,533.13694,510475.35,510.4753
+BLD-231,Nilgiri Mess,Nilgiri,4295,190612.1,190.6121,182509.91,182.5099
+BLD-038,Vindhya Mess,Vindhya,3705,164427.9,164.4279,157438.7,157.4387
