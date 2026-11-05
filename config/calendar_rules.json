@@ -1,0 +1,12 @@
+{
+  "summer_start": "05-15",
+  "summer_end": "07-15",
+  "winter_start": "12-20",
+  "winter_end": "01-05",
+  "summer_school_activity_index": 0.52,
+  "winter_school_activity_index": 0.75,
+  "normal_school_activity_index": 1.0,
+  "annual_electricity_growth_after_last_anchor": 0.022,
+  "solar_generation_growth_after_last_anchor": 0.0,
+  "grid_factor_after_last_anchor": "carry_forward_last_available"
+}
